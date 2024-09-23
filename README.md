@@ -1,4 +1,4 @@
-Termos de Serviço do Bot [Nome do Bot]
+Termos de Serviço do Bot [GroupSniper]
 Última Atualização: [23/09/2024]
 
 1. Aceitação dos Termos
